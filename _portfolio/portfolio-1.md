@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Joint TDLI and INPAC WinterSchool 2025"
+excerpt: "Regretful Experience in SJTU<br/><img src='/images/Group Photo.jpg'>"
 collection: portfolio
 ---
 
