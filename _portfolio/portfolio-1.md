@@ -1,6 +1,6 @@
 ---
 title: "Joint TDLI and INPAC WinterSchool 2025"
-excerpt: "Regretful Experience in SJTU<br/><img src='/images/Group Photo.jpg'>"
+excerpt: "Regretful Experience in SJTU<br/><img src='http://David71764.github.io/images/Group Photo.jpg'>"
 collection: portfolio
 ---
 
