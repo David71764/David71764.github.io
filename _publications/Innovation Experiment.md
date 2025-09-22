@@ -2,7 +2,7 @@
 title: "Innovation Experiments in Particle Physics"
 collection: publications
 category: course essay
-permalink: /publication/Innovation Experiment.md
+permalink: /publication/Innovation Experiment
 excerpt: 'A little Innovation Experiment using equipments from CAEN. Our group came with a experiment which tried to find out the properties of the detector they offered.'
 date: 2024-11-15
 venue: 'Course Essay 3'
