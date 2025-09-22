@@ -6,8 +6,8 @@ permalink: /publication/Experiment Methods in Particle Physics
 excerpt: 'A brief introduction to ATLAS experiment'
 date: 2025-6-30
 venue: 'Course Essay 1'
-slidesurl: 'http://David71764.github.io/files/particle_physics_experiments.pdf'
-paperurl: 'http://David71764.github.io/files/particle_physics_experiments.pdf'
+slidesurl: 'http://David71764.github.io/files/ParticlePhysicsExperiments.pdf'
+paperurl: 'http://David71764.github.io/files/ParticlePhysicsExperiments.pdf'
 bibtexurl: ''
 citation: ''
 ---
