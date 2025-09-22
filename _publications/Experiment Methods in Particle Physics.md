@@ -3,8 +3,8 @@ title: "Experiment Methods in Particle Physics"
 collection: publications
 category: manuscripts
 permalink: /publication/Experiment Methods in Particle Physics
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+excerpt: 'A brief introduction to the data analysis methods in ATLAS experiment, especially in VBF and ggF process'
+date: 2025-6-30
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
