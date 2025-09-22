@@ -4,7 +4,7 @@ collection: publications
 category: course essay
 permalink: /publication/Group Theory
 excerpt: ''
-date: 2025-1-15
+date: 2025-1-10
 venue: 'Course Essay 2'
 slidesurl: 'http://David71764.github.io/files/GroupTheory.pdf'
 paperurl: 'http://David71764.github.io/files/GroupTheory.pdf'
