@@ -6,8 +6,8 @@ permalink: /publication/Experiment Methods in Particle Physics.md
 excerpt: ''
 date: 2025-6-30
 venue: 'Course Essay 1'
-slidesurl: 'http://academicpages.github.io/files/粒子物理实验导论-屈可立.pdf'
-paperurl: 'http://academicpages.github.io/files/粒子物理实验导论-屈可立.pdf'
+slidesurl: 'http://David71764.github.io/files/粒子物理实验导论-屈可立.pdf'
+paperurl: 'http://David71764.github.io/files/粒子物理实验导论-屈可立.pdf'
 bibtexurl: ''
 citation: ''
 ---
