@@ -2,7 +2,7 @@
 title: "Experiment Methods in Particle Physics"
 collection: publications
 category: course essay
-permalink: /publication/Experiment Methods in Particle Physics
+permalink: /publication/Experiment Methods in Particle Physics.md
 excerpt: 'A brief introduction to ATLAS Experiment'
 date: 2025-6-28
 venue: 'Course Essay 1'
