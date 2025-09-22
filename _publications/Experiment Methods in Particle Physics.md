@@ -1,7 +1,7 @@
 ---
 title: "Experiment Methods in Particle Physics"
 collection: publications
-category: manuscripts
+category: Essays
 permalink: /publication/Experiment Methods in Particle Physics
 excerpt: 'A brief introduction to the data analysis methods in ATLAS experiment, especially in VBF and ggF process'
 date: 2025-6-30
