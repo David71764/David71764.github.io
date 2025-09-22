@@ -32,7 +32,7 @@ redirect_from:
 <br>
 
 **Shandong University** \
-*B.Sc. in Physics(Honors Class) | GPA: 88.64/100* \
+*B.Sc. in Physics(Honors Class) | GPA: 88.81/100* \
 **2022.09--present**
 
 * **Core Courses**: Quantum Mechanics, Group Theory, Introduction to Experimental Methods in Particle Physics, Computational Physics and Experiment
