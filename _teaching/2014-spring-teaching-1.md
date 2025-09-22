@@ -1,10 +1,10 @@
 ---
 title: "To be updated"
 collection: teaching
-type: "="
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "="
-date: =
+venue: ""
+date: 
 location: ""
 ---
 
