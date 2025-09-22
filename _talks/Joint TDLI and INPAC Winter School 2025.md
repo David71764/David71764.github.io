@@ -4,11 +4,11 @@ collection: Winter Schools
 type: "Summer/Winter School"
 permalink: /talks/Joint TDLI and INPAC Winter School 2025.md
 venue: "Shanghai Jiao Tong University and TDLI Institute"
-date: 2025-1-20 to 2025-1-25
+date: 2025-1-20
 location: "Shanghai, China"
 ---
 
-[Find More information here](https://indico-tdli.sjtu.edu.cn/event/2696/timetable/#20250120)
+[More information here](https://indico-tdli.sjtu.edu.cn/event/2696/timetable/#20250120)
 
 The 2025 Joint TDLI and INPAC Winter School in Particle Physics is an intensive academic program hosted at Shanghai Jiao Tong University, running from January 20 to January 24, 2025. Organized by the Tsung-Dao Lee Institute (TDLI) and the Institute of Nuclear and Particle Physics, Astronomy and Cosmology (INPAC), this school is designed to provide graduate students and young researchers with a deep and comprehensive understanding of key topics in modern particle physics.
 
