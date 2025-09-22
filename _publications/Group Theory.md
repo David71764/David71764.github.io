@@ -2,7 +2,7 @@
 title: "Introduction to Group Theory"
 collection: publications
 category: course essay
-permalink: /publication/Group Theory
+permalink: /publication/Group Theory.md
 excerpt: ''
 date: 2025-1-10
 venue: 'Course Essay 2'
