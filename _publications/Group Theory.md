@@ -6,8 +6,8 @@ permalink: /publication/Group Theory
 excerpt: ''
 date: 2025-1-15
 venue: 'Course Essay 2'
-slidesurl: 'http://David71764.github.io/files/Group_Theory.pdf'
-paperurl: 'http://David71764.github.io/files/Group_Theory.pdf'
+slidesurl: 'http://David71764.github.io/files/GroupTheory.pdf'
+paperurl: 'http://David71764.github.io/files/GroupTheory.pdf'
 bibtexurl: ''
 citation: ''
 ---
