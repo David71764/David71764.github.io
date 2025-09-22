@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-# <p align="center">Curriculum Vitae</p>
+<p align="center"># Curriculum Vitae</p>
 
 <p align="center">
   <strong><font size="+2">KeLi Qu</font></strong>
