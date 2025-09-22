@@ -1,13 +1,13 @@
 ---
 title: "Introduction to Group Theory"
 collection: publications
-category: course essay
+category: conferences
 permalink: /publication/Group Theory
 excerpt: ''
 date: 2025-1-10
 venue: 'Course Essay 2'
-slidesurl: 'https://github.com/David71764/David71764.github.io/tree/master/files/GroupTheory.pdf'
-paperurl: 'https://github.com/David71764/David71764.github.io/tree/master/files/GroupTheory.pdf'
+slidesurl: 'http://David71764.github.io/files/GroupTheory.pdf'
+paperurl: 'http://David71764.github.io/files/GroupTheory.pdf'
 bibtexurl: ''
 citation: ''
 ---
