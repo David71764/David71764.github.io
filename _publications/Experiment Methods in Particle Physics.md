@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/Experiment Methods in Particle Physics
 excerpt: 'A brief introduction to the data analysis methods in ATLAS experiment, especially in VBF and ggF process'
 date: 2025-6-30
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+venue: 'Coursework Essays'
+slidesurl: 'http://David71764.github.io/files/ParticlePhysicsExperiments.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
