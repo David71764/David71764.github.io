@@ -2,7 +2,7 @@
 title: "Experiment Methods in Particle Physics"
 collection: publications
 category: course essay
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/Experiment Methods in Particle Physics.md
 excerpt: ''
 date: 2025-6-30
 venue: 'Course Essay 1'
