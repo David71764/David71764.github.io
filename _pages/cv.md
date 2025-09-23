@@ -74,6 +74,7 @@ redirect_from:
 
 ## Awards & Honors
 ---
+* **2025:** **Academic Scholarship** | Top 30% in SDU
 * **2025:** **Joint TDLI and INPAC Winter School in Particle Physics** | Successfully completed
 * **2024:** **China Undergraduate Mathematical Contest in Modeling** | Second prize in Shandong province
 * **2023:** **Algorithm Competition for College Students** | Excellence Award in Group A
