@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume
 ---
 
 {% include base_path %}
@@ -13,11 +13,11 @@ redirect_from:
 
 
 <p align="center">
-  <strong><font size="+2">KeLi Qu</font></strong>
-  <br>
-  Shandong University | <a href="https://david71764.github.io/">My Home Page</a>
-  <br>
-  Phone: +86 173-9173-5297 | Email: <a href="mailto:keliqu@mail.sdu.edu.cn">keliqu@mail.sdu.edu.cn</a>
+  <strong><font size="+2">KeLi Qu</font></strong>
+  <br>
+  Shandong University | <a href="https://david71764.github.io/">My Home Page</a>
+  <br>
+  Phone: +86 173-9173-5297 | Email: <a href="mailto:keliqu@mail.sdu.edu.cn">keliqu@mail.sdu.edu.cn</a>
 </p>
 
 ## Education
@@ -36,7 +36,7 @@ redirect_from:
 **2022.09--present**
 
 * **Core Courses**: Quantum Mechanics, Group Theory, Introduction to Experimental Methods in Particle Physics, Computational Physics and Experiment
-* **Research Project**: ATLAS experiment at the LHC, Thermal properties of ultra-wide bandgap semiconductor and thermal management of devices
+* **Research Project**: ATLAS experiment at the LHC, Simulation and Physics Prediction for STCF
 
 ## Research Experience
 ---
@@ -45,7 +45,7 @@ redirect_from:
 *06/2025--08/2025*
 * Basic knowledge of quantum computing and quantum information
 * Familiar with Python library for QIQC and Quantum Machine Learning
-* As the demand for analyzing massive datasets in high-energy physics continues to grow, quantum machine learning has demonstrated quantum supremacy in certain problems, highlighting its increasing importance for data analysis in future high-luminosity LHC experiments. Inspired by the particle track identification algorithm used in the Deep Underground Neutrino Experiment (DUNE), using quantum convolutional neural network to construct a classifier for top quark jet image.
+* Inspired by the particle track identification algorithm used in the Deep Underground Neutrino Experiment (DUNE), using quantum convolutional neural network to construct a classifier for top quark jet image.
 
 <br>
 
@@ -53,28 +53,29 @@ redirect_from:
 *ATLAS experiment at the LHC* \
 *09/2024--Present*
 * Learned Python computational science and data analysis methods
-* Learn to use Boosted Decision Tree methods (implemented via XGBoost), develop a signal-to-background discrimination scheme to analyze the VBF and ggF processes of the $H\to\mu\mu$ in the ATLAS experiment.
+* Learn to use Boosted Decision Tree (implemented via XGBoost), develop a signal-to-background discrimination scheme to analyze the VBF and ggF processes of the $H\to\mu\mu$ in the ATLAS experiment.
 * Familiar with the workflow of working on the CERN Lxplus
 
 <br>
 
-**Research Project 1 | Prof. Jiayue Yang** \
-*Thermal properties of ultra-wide bandgap semiconductor and thermal management of devices* \
-*01/2024-06/2024*
-* Basic knowledge of machine learning
-* Familiar with the use of LAMMPS(Large-scale Atomic/Molecular Massively Parallel Simulator)
-* Studied molecular dynamics and finite element methods in the research of microchannel heat dissipation and thermoelectric coupling of devices
+**Upcoming Thesis | Super Tau-Charm Facility (STCF)** \
+*Simulation and Physics Prediction* \
+*Upcoming*
+* Focus on simulation and physics prediction for the STCF, a next-generation $e^{+}e^{-}$ collider targeting the tau-charm energy region.
+* Utilize Geant4-based Monte Carlo frameworks to model detector response and backgrounds.
+* Conduct physics studies to predict the experimental sensitivity for specific channels, complementing research at LHC and Belle II.
 
 ## Lab Skills
 ---
 * **Quantum Computing and Quantum Information:** Python library for QIQC and QML
 * **Particle Physics:** Familiar with the workflow at CERN Lxplus and Gitlab
-* **Semiconductor Physics:** Finite element analysis, Molecular dynamics simulation
 * **Programming Skills:** Python, LAMMPS, Shell, Wolfram Mathematica
+* **Skills will be learned:** Geant4-based MC tools, OSCAR framework
 
 ## Awards & Honors
 ---
-* **2025:** **Academic Scholarship** | Top 30% in SDU
+* **2025:** **Merit Student**
+* **2025:** **Academic Scholarship** | SDU (TOP 30%)
 * **2025:** **Joint TDLI and INPAC Winter School in Particle Physics** | Successfully completed
 * **2024:** **China Undergraduate Mathematical Contest in Modeling** | Second prize in Shandong province
 * **2023:** **Algorithm Competition for College Students** | Excellence Award in Group A
